@@ -14,7 +14,7 @@ This repository contains the dataset introduced in the paper **"GoalballAI: A co
 
 The GoalballAI dataset is publicly available for download under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
-**📥 Download the Dataset Here:** [LINK]
+**📥 Download the Dataset Here:** https://drive.google.com/drive/folders/1s9UsrdQGWSpFKEJ6vo7rMM4oKAahXNYN?usp=sharing
 
 ### Available Formats:
 - **YOLOv8** 
