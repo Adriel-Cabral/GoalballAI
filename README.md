@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This repository contains the official documentation and resources for the paper **"GoalballAI: A computer vision dataset for player and ball detection in Goalball"**.
+This repository contains the dataset introduced in the paper **"GoalballAI: A computer vision dataset for player and ball detection in Goalball"**.
 
 **GoalballAI** is, to the best of our knowledge, **the first publicly available dataset** for object detection in the Paralympic sport of Goalball. It aims to foster research in computer vision for sports analytics, specifically for visually impaired sports, by providing a high-quality, annotated benchmark.
 
